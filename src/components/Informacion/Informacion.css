@@ -19,7 +19,7 @@ li{
     margin-left: 10px;
     margin: 10px 0;
 }
-@media(width> 420px){
+@media(width> 480px){
     li{
         font-size: 3rem;
     }

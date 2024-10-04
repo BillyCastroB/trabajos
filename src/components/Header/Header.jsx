@@ -15,7 +15,7 @@ export const Header = () => {
           <h3 className='mt2'>VI Semestre Diurno Programación</h3>
         </div>
         <div className='presentacion__imagen'>
-          <img className='img-movil' src="/images/movil.png" alt="" />
+          <img className='img-movil' src="./images/movil.png" alt="" />
         </div>
       </div>
     </header>

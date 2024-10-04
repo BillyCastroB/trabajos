@@ -20,6 +20,7 @@ export const Main = () => {
           />
           <Item
             semana={"Semana #4"}
+            enlace={"https://github.com/BillyCastroB/archivos-tareas/tree/main/s4"}
           />
           <Item
             semana={"Semana #5"}

@@ -4,7 +4,7 @@ export const Item = ({enlace, semana}) => {
   return (
     <div className='item'>
         <div className='item--icono'>
-            <img src="/images/check-icono.png" alt="icono" />
+            <img src="./images/check-icono.png" alt="icono" />
         </div>
         <div className='item--descripcion'>
             <h2>{semana}</h2>
